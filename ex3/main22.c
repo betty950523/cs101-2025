@@ -3,8 +3,7 @@
 int main()
 {
     int* ip;
-    int var=10;
-    ip=&var;
+    ip=2;
     printf("%p\n",ip);
     printf("%d\n",*ip);
     return 0;
